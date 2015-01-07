@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'smack_engine'
+puts "hey this is an executable"

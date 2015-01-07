@@ -1,6 +1,7 @@
 Gem::Specification.new do |s|
   s.name        = 'smack_engine'
   s.version     = '0.0.0'
+  s.executables << 'smack_engine'
   s.date        = '2014-01-05'
   s.summary     = "Smackwangler!"
   s.description = "The game engine for the game that was initially and affectionately known as Smackwangler."
