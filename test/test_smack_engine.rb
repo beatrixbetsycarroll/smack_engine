@@ -3,6 +3,6 @@ require 'smack_engine'
 
 class SmackTest < Minitest::Test
   def test_silly_example
-    assert_equal 2+2, 5
+    assert_equal 2+2, 4
   end
 end
